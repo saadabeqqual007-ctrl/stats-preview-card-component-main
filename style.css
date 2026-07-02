@@ -162,11 +162,8 @@ p {
   }
 
 .data-analytics {
-  flex-direction: row;
-}
-
-.data-analytics {
     display: flex;
+    flex-direction: row;
     width: 80%;
   }
 
