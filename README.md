@@ -35,6 +35,10 @@ Through this project, I practiced:
 * CSS Grid
 * Flexbox
 
+## Live Site
+
+https://saadabeqqual007-ctrl.github.io/stats-preview-card-component-main/
+
 ## Author
 
 GitHub: https://github.com/saadabeqqual007-ctrl
